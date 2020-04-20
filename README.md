@@ -1,2 +1,2 @@
 # reacttodolist_rn
-'reacttodolist' in React-Native app.
+'reacttodolist' in React-Native.
